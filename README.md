@@ -1,4 +1,3 @@
-# react-ai-agent
 # ReAct AI Agent
 
 A Python-based AI agent that connects an LLM to multiple tools to give optimal, efficient answers to any query.
